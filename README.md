@@ -27,8 +27,8 @@ The application runs completely in the browser and focuses on a clean interface 
 Clone the repository and install the required dependencies.
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/rajsonugupta11/Student-management-.git
+cd Student-management-
 npm install
 ```
 
