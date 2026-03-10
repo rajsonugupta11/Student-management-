@@ -1,3 +1,6 @@
+Replit deployment link:
+https://student-management--rajsonugupta12.replit.app
+
 # Excel Manager (Frontend)
 
 A simple React-based tool to manage records and export them as Excel spreadsheets.
